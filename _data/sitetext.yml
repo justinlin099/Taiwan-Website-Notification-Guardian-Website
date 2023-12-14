@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: 實測台灣前百大網站詐騙廣告通知調查
+    title: 第一組
+    text: 設計方法 Design Method
 
   services:
     title: "Services"
