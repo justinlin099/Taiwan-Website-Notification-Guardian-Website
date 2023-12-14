@@ -11,7 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: 台灣前百大網站詐騙廣告通知實測
+    title: 實測
+    text: 台灣前百大網站詐騙廣告通知調查
 
   services:
     title: "Services"
