@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-zh-TW: &DEFAULT_TW
+en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
