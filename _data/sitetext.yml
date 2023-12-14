@@ -11,8 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: "實測台灣前百大網站詐騙廣告通知調查"
-    button: "看實測結果"
+    title: Welcome to our Studio!
+    text: It's Nice To Meet You
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
