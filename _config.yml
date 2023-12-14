@@ -12,20 +12,20 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: justinlin099/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://twwebsitenotificationguardian.justinl.in/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+title      : Taiwan Website Notification Guardian
+email      : justin.lin099backup+twngw@gmail.com #this is also the email contact forms will go to
+description: "台灣前百大網站詐騙廣告通知實測 | 我們完整的測試了台灣最多人用的 100 個網站，看看這些網站的通知有沒有跳出與網站無關的廣告或是詐騙訊息。"
+author     : 台科大 網際網路與法律 第七組
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "zh-TW" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
