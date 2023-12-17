@@ -7,8 +7,8 @@ caption:
   subtitle: www.google.com
 ---
 
-<h2>網站分級：<font color="#00FF00">無通知功能</font></h2>
-<h2>網站畫面</h2>
+<h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
+<h3>網站畫面</h3>
 <embed src="https://web.archive.org/web/www.google.com.tw" style="width:700px; height: 500px;">
 
 ### 是否有通知功能?
