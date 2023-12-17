@@ -7,5 +7,5 @@ caption:
   subtitle: www.google.com
 ---
 
-<iframe style="width:800px; height:600px;" src="https://web.archive.org/web/www.google.com.tw" referrerpolicy="no-referrer-when-downgrade">_</iframe>
+<iframe style="width:800px; height:600px;" src="https://web.archive.org/web/www.google.com.tw" referrerpolicy="unsafe-url">_</iframe>
 
