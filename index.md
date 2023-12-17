@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<meta name="referrer" content="no-referrer-when-downgrade"" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
 
 
 | 排名&emsp; | 網站名稱&emsp; | 網站網址&emsp; | 網站分級&emsp; | 收到的總通知數&emsp; | 收到的無關通知數&emsp; | 收到的詐騙通知數&emsp; | 詳細報告&emsp; |
