@@ -37,10 +37,10 @@ en: &DEFAULT_EN
         role: "組長"
         image: https://avatars.githubusercontent.com/u/61717681?v=4
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "資訊組組長"
         image: assets/img/team/2.jpg
       - name: "Diana Perterson"
-        role: "Lead Developer"
+        role: "測試組組長"
         image: assets/img/team/500x500.jpg
       - name: "Justin Lin"
         role: "組長"
