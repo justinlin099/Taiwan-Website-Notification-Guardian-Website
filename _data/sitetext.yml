@@ -36,39 +36,39 @@ en: &DEFAULT_EN
       - name: "Justin Lin"
         role: "組長"
         image: https://avatars.githubusercontent.com/u/61717681?v=4
-      - name: "Larry Parker"
-        role: "資訊組組長"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
+      - name: "曾稚翔"
+        role: "開發組組長"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/deb186b9-f3e2-4026-acd4-c87fe3e66447
+      - name: "張峻博"
         role: "測試組組長"
-        image: assets/img/team/500x500.jpg
-      - name: "Justin Lin"
-        role: "組長"
-        image: https://avatars.githubusercontent.com/u/61717681?v=4
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-      - name: "Justin Lin"
-        role: "組長"
-        image: https://avatars.githubusercontent.com/u/61717681?v=4
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-      - name: "Justin Lin"
-        role: "組長"
-        image: https://avatars.githubusercontent.com/u/61717681?v=4
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/3de99de8-ee4f-4f2b-aff0-b569d8605173
+      - name: "劉庭宇"
+        role: "開發組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/870e83fb-28a3-4a06-82ed-7cc840809e93
+      - name: "陳宥華"
+        role: "開發組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/b973f540-8774-4e13-a9a4-54065410b815
+      - name: "何銘哲"
+        role: "開發組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/2690d704-03bd-4bc6-a33d-87990693ce5b
+      - name: "馮彥程"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/584a4a9f-1553-492a-94f6-dc2cade35dfb
+      - name: "黃柏諺"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/546496de-c866-493b-a88c-305fa2fcec47
+      - name: "王秉軒"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/b22bdb2e-9632-4c24-9424-7a3fa176d819
+      - name: "張芸瑄"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/5b523ab0-90c3-4149-b9c1-b637647cfca3
+      - name: "許鈞國"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/12815e9e-e587-48a6-9fac-551864fc604c
+      - name: "楊凱翔"
+        role: "測試組"
+        image: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/009b9adf-0251-4602-9880-c2e601b57554
         
 
   contact:
