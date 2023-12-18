@@ -88,7 +88,6 @@ en: &DEFAULT_EN
 
   footer:
     legal: "台灣前百大網站排名來源"
-      - url: https://www.mylink.com.tw/top100/
     social:
       - url: https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website
         icon: "fab fa-github"
