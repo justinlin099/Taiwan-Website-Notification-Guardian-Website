@@ -2,14 +2,12 @@
 subtitle: https://www.liontravel.com/category/zh-tw/index
 
 caption:
-	subtitle: https://www.liontravel.com/category/zh-tw/index
+  subtitle: https://www.liontravel.com/category/zh-tw/index
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.liontravel.com/category/zh-tw/index)
-<embed src="https://web.archive.org/web/https://www.liontravel.com/category/zh-tw/index"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

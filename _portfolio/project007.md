@@ -2,14 +2,12 @@
 subtitle: https://www.facebook.com/
 
 caption:
-	subtitle: https://www.facebook.com/
+  subtitle: https://www.facebook.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.facebook.com/)
-<embed src="https://web.archive.org/web/https://www.facebook.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

@@ -2,14 +2,12 @@
 subtitle: https://www.uukanshu.com/
 
 caption:
-	subtitle: https://www.uukanshu.com/
+  subtitle: https://www.uukanshu.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.uukanshu.com/)
-<embed src="https://web.archive.org/web/https://www.uukanshu.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

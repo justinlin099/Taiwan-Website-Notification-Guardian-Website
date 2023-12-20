@@ -2,14 +2,12 @@
 subtitle: https://zh-m-wikipedia-org.translate.goog/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=sc
 
 caption:
-	subtitle: https://zh-m-wikipedia-org.translate.goog/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=sc
+  subtitle: https://zh-m-wikipedia-org.translate.goog/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=sc
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://zh-m-wikipedia-org.translate.goog/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=sc)
-<embed src="https://web.archive.org/web/https://zh-m-wikipedia-org.translate.goog/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=sc"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

@@ -2,14 +2,12 @@
 subtitle: https://life.tw/
 
 caption:
-	subtitle: https://life.tw/
+  subtitle: https://life.tw/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://life.tw/)
-<embed src="https://web.archive.org/web/https://life.tw/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

@@ -2,14 +2,12 @@
 subtitle: https://www.mirrormedia.mg/
 
 caption:
-	subtitle: https://www.mirrormedia.mg/
+  subtitle: https://www.mirrormedia.mg/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.mirrormedia.mg/)
-<embed src="https://web.archive.org/web/https://www.mirrormedia.mg/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

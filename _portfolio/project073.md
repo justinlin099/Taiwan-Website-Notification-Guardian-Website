@@ -2,14 +2,12 @@
 subtitle: https://www.amazon.com/
 
 caption:
-	subtitle: https://www.amazon.com/
+  subtitle: https://www.amazon.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.amazon.com/)
-<embed src="https://web.archive.org/web/https://www.amazon.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

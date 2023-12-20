@@ -1,17 +1,13 @@
 ---
-title: Google
-subtitle: www.google.com
+subtitle: https://www.google.com.tw/
 
 caption:
-  title: Google
-  subtitle: www.google.com
+  subtitle: https://www.google.com.tw/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.google.com.tw/)
-<embed src="https://web.archive.org/web/https://www.google.com.tw/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

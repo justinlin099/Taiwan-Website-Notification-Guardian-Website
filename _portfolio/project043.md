@@ -2,14 +2,12 @@
 subtitle: http://www03.eyny.com/
 
 caption:
-	subtitle: http://www03.eyny.com/
+  subtitle: http://www03.eyny.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](http://www03.eyny.com/)
-<embed src="https://web.archive.org/web/http://www03.eyny.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

@@ -2,14 +2,12 @@
 subtitle: https://www.jkforum.net/forum.php
 
 caption:
-	subtitle: https://www.jkforum.net/forum.php
+  subtitle: https://www.jkforum.net/forum.php
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.jkforum.net/forum.php)
-<embed src="https://web.archive.org/web/https://www.jkforum.net/forum.php"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

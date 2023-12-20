@@ -2,14 +2,12 @@
 subtitle: https://www.apple.com/
 
 caption:
-	subtitle: https://www.apple.com/
+  subtitle: https://www.apple.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.apple.com/)
-<embed src="https://web.archive.org/web/https://www.apple.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

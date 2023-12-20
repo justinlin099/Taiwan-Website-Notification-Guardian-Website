@@ -2,14 +2,12 @@
 subtitle: http://www.hinet.net/
 
 caption:
-	subtitle: http://www.hinet.net/
+  subtitle: http://www.hinet.net/
 ---
 
 <h3>網站分級：<font color="#00FF00">有通知功能</font></h3>
 
 ### [網站畫面](http://www.hinet.net/)
-<embed src="https://web.archive.org/web/http://www.hinet.net/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 有
 

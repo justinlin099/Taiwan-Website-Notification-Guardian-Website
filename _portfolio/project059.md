@@ -2,14 +2,12 @@
 subtitle: https://www.apple.com/tw//?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_70737312782_&cid=aos-tw-kwg-brand-slid-
 
 caption:
-	subtitle: https://www.apple.com/tw//?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_70737312782_&cid=aos-tw-kwg-brand-slid-
+  subtitle: https://www.apple.com/tw//?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_70737312782_&cid=aos-tw-kwg-brand-slid-
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.apple.com/tw//?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_70737312782_&cid=aos-tw-kwg-brand-slid-)
-<embed src="https://web.archive.org/web/https://www.apple.com/tw//?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_70737312782_&cid=aos-tw-kwg-brand-slid-"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

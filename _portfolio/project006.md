@@ -2,14 +2,12 @@
 subtitle: https://tw.yahoo.com/
 
 caption:
-	subtitle: https://tw.yahoo.com/
+  subtitle: https://tw.yahoo.com/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://tw.yahoo.com/)
-<embed src="https://web.archive.org/web/https://tw.yahoo.com/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

@@ -2,14 +2,12 @@
 subtitle: https://biji.co/
 
 caption:
-	subtitle: https://biji.co/
+  subtitle: https://biji.co/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://biji.co/)
-<embed src="https://web.archive.org/web/https://biji.co/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

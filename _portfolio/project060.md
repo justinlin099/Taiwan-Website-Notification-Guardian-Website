@@ -2,14 +2,12 @@
 subtitle: https://www.blogger.com/about/?hl=zh-TW
 
 caption:
-	subtitle: https://www.blogger.com/about/?hl=zh-TW
+  subtitle: https://www.blogger.com/about/?hl=zh-TW
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://www.blogger.com/about/?hl=zh-TW)
-<embed src="https://web.archive.org/web/https://www.blogger.com/about/?hl=zh-TW"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 

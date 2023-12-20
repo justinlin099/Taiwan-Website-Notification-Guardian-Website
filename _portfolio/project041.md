@@ -2,14 +2,12 @@
 subtitle: http://www.rakuten.com.tw/
 
 caption:
-	subtitle: http://www.rakuten.com.tw/
+  subtitle: http://www.rakuten.com.tw/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](http://www.rakuten.com.tw/)
-<embed src="https://web.archive.org/web/http://www.rakuten.com.tw/"style="width:700px; height: 500px;">
-
 ### 是否有通知功能?
 無
 
