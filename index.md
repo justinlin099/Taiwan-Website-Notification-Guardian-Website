@@ -6,103 +6,103 @@ layout: home
 
 | 排名&emsp; | 網站網址&emsp; | 網站分級&emsp; | 收到的總通知數&emsp; | 收到的詐騙通知數&emsp; | 詳細報告&emsp; |
 | ------ | ------ | --------- | ------ | ------ | ------ |
-| 1 | [https://www.google.com.tw/](https://www.google.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p1">查看詳細報告</a> |
-| 2 | [https://www.youtube.com/](https://www.youtube.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p2">查看詳細報告</a> |
-| 3 | [https://www.facebook.com/](https://www.facebook.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p3">查看詳細報告</a> |
-| 4 | [https://tw.news.yahoo.com/](https://tw.news.yahoo.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 1 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p4">查看詳細報告</a> |
-| 5 | [https://udn.com/news/index](https://udn.com/news/index)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p5">查看詳細報告</a> |
-| 6 | [https://tw.yahoo.com/](https://tw.yahoo.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p6">查看詳細報告</a> |
-| 7 | [https://www.facebook.com/](https://www.facebook.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p7">查看詳細報告</a> |
-| 8 | [https://shopee.tw/](https://shopee.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p8">查看詳細報告</a> |
-| 9 | [https://zh.wikipedia.org](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p9">查看詳細報告</a> |
-| 10 | [https://www.ltn.com.tw/](https://www.ltn.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 100 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p10">查看詳細報告</a> |
-| 11 | [https://news.ebc.net.tw/](https://news.ebc.net.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p11">查看詳細報告</a> |
-| 12 | [https://line.me/zh-hant/](https://line.me/zh-hant/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p12">查看詳細報告</a> |
-| 13 | [https://www.chinatimes.com/?chdtv](https://www.chinatimes.com/?chdtv)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p13">查看詳細報告</a> |
-| 14 | [https://www.nownews.com/#google_vignette](https://www.nownews.com/#google_vignette)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p14">查看詳細報告</a> |
-| 15 | [https://www.instagram.com/](https://www.instagram.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p15">查看詳細報告</a> |
-| 16 | [https://www.ettoday.net/](https://www.ettoday.net/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p16">查看詳細報告</a> |
-| 17 | [https://ppt.cc/](https://ppt.cc/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p17">查看詳細報告</a> |
-| 18 | [https://www.pixnet.net/](https://www.pixnet.net/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p18">查看詳細報告</a> |
-| 19 | [https://www.dcard.tw/f](https://www.dcard.tw/f)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p19">查看詳細報告</a> |
-| 20 | [http://www.baidu.com/](http://www.baidu.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p20">查看詳細報告</a> |
-| 21 | [https://www.gamer.com.tw/index2.php?ad=N](https://www.gamer.com.tw/index2.php?ad=N)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p21">查看詳細報告</a> |
-| 22 | [https://www.momoshop.com.tw/main/Main.jsp](https://www.momoshop.com.tw/main/Main.jsp)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p22">查看詳細報告</a> |
-| 23 | [https://tw.nextapple.com/](https://tw.nextapple.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p23">查看詳細報告</a> |
-| 24 | [https://www.bilibili.com/](https://www.bilibili.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p24">查看詳細報告</a> |
-| 25 | [https://twitter.com/?lang=zh-tw](https://twitter.com/?lang=zh-tw)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p25">查看詳細報告</a> |
-| 26 | [https://www.setn.com/](https://www.setn.com/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p26">查看詳細報告</a> |
-| 27 | [https://www.mobile01.com/](https://www.mobile01.com/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p27">查看詳細報告</a> |
-| 28 | [https://www.tvbs.com.tw/](https://www.tvbs.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p28">查看詳細報告</a> |
-| 29 | [https://biggo.com.tw/](https://biggo.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p29">查看詳細報告</a> |
-| 30 | [https://openai.com/](https://openai.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p30">查看詳細報告</a> |
-| 31 | [https://www.manhuagui.com/](https://www.manhuagui.com/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p31">查看詳細報告</a> |
-| 32 | [https://www.businessweekly.com.tw/](https://www.businessweekly.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p32">查看詳細報告</a> |
-| 33 | [https://www.manhuagui.com/](https://www.manhuagui.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p33">查看詳細報告</a> |
-| 34 | [https://www.twitch.tv/](https://www.twitch.tv/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p34">查看詳細報告</a> |
-| 35 | [https://www.xbanxia.com/](https://www.xbanxia.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p35">查看詳細報告</a> |
-| 36 | [https://www.storm.mg/](https://www.storm.mg/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p36">查看詳細報告</a> |
-| 37 | [http://www.104.com.tw/](http://www.104.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p37">查看詳細報告</a> |
-| 38 | [https://www.ctwant.com/](https://www.ctwant.com/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 66 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p38">查看詳細報告</a> |
-| 39 | [https://czbooks.net/](https://czbooks.net/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p39">查看詳細報告</a> |
-| 40 | [http://www.hinet.net/](http://www.hinet.net/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p40">查看詳細報告</a> |
-| 41 | [http://www.rakuten.com.tw/](http://www.rakuten.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p41">查看詳細報告</a> |
-| 42 | [http://www.techbang.com/](http://www.techbang.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p42">查看詳細報告</a> |
-| 43 | [http://www03.eyny.com/](http://www03.eyny.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p43">查看詳細報告</a> |
-| 44 | [https://www.uukanshu.com/](https://www.uukanshu.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p44">查看詳細報告</a> |
-| 45 | [netflix.com](netflix.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p45">查看詳細報告</a> |
-| 46 | [chinatimes.com](chinatimes.com)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 24 | 8 | <a class="portfolio-link" data-toggle="modal" href="#p46">查看詳細報告</a> |
-| 47 | [1111.com.tw](1111.com.tw)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p47">查看詳細報告</a> |
-| 48 | [baozimh.com](baozimh.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p48">查看詳細報告</a> |
-| 49 | [picsee.io](picsee.io)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p49">查看詳細報告</a> |
-| 50 | [69shuba.com](69shuba.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p50">查看詳細報告</a> |
-| 51 | [icook.tw](icook.tw)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p51">查看詳細報告</a> |
-| 52 | [newtalk.tw](newtalk.tw)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 1 | 1 | <a class="portfolio-link" data-toggle="modal" href="#p52">查看詳細報告</a> |
-| 53 | [imgur.com](imgur.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p53">查看詳細報告</a> |
-| 54 | [iq.com](iq.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p54">查看詳細報告</a> |
-| 55 | [trends.google.com](trends.google.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p55">查看詳細報告</a> |
-| 56 | [bussinesstoday.com.tw](bussinesstoday.com.tw)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p56">查看詳細報告</a> |
-| 57 | [chinatimes.com](chinatimes.com)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 16 | 7 | <a class="portfolio-link" data-toggle="modal" href="#p57">查看詳細報告</a> |
-| 58 | [news.google.com](news.google.com)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p58">查看詳細報告</a> |
-| 59 | [https://www.apple.com/tw](https://www.apple.com/tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p59">查看詳細報告</a> |
-| 60 | [https://www.blogger.com/about/?hl=zh-TW](https://www.blogger.com/about/?hl=zh-TW)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p60">查看詳細報告</a> |
-| 61 | [https://www.cmoney.tw/app/](https://www.cmoney.tw/app/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p61">查看詳細報告</a> |
-| 62 | [https://www.elle.com/tw/](https://www.elle.com/tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p62">查看詳細報告</a> |
-| 63 | [https://www.hinet.net/](https://www.hinet.net/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p63">查看詳細報告</a> |
-| 64 | [https://www.popdaily.com.tw/](https://www.popdaily.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p64">查看詳細報告</a> |
-| 65 | [https://world.taobao.com/](https://world.taobao.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p65">查看詳細報告</a> |
-| 66 | [https://www.qq.com/](https://www.qq.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p66">查看詳細報告</a> |
-| 67 | [https://www.jkforum.net/forum.php](https://www.jkforum.net/forum.php)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p67">查看詳細報告</a> |
-| 68 | [https://www.ftvnews.com.tw/](https://www.ftvnews.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p68">查看詳細報告</a> |
-| 69 | [https://www.apple.com/](https://www.apple.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p69">查看詳細報告</a> |
-| 70 | [https://www.mirrormedia.mg/](https://www.mirrormedia.mg/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p70">查看詳細報告</a> |
-| 71 | [https://www.cdc.gov.tw/](https://www.cdc.gov.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p71">查看詳細報告</a> |
-| 72 | [https://www.vogue.com.tw/](https://www.vogue.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p72">查看詳細報告</a> |
-| 73 | [https://www.amazon.com/](https://www.amazon.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p73">查看詳細報告</a> |
-| 74 | [https://www.parenting.com.tw/](https://www.parenting.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p74">查看詳細報告</a> |
-| 75 | [https://www.cnyes.com/](https://www.cnyes.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p75">查看詳細報告</a> |
-| 76 | [https://www.pcstore.com.tw/](https://www.pcstore.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p76">查看詳細報告</a> |
-| 77 | [https://www.plurk.com/top/](https://www.plurk.com/top/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p77">查看詳細報告</a> |
-| 78 | [https://www.obdesign.com.tw/](https://www.obdesign.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p78">查看詳細報告</a> |
-| 79 | [https://www.qq.com/](https://www.qq.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p79">查看詳細報告</a> |
-| 80 | [https://www.myvideo.net.tw/](https://www.myvideo.net.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p80">查看詳細報告</a> |
-| 81 | [https://www.gomaji.com/](https://www.gomaji.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p81">查看詳細報告</a> |
-| 82 | [https://www.plurk.com/portal/](https://www.plurk.com/portal/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p82">查看詳細報告</a> |
-| 83 | [https://www.playsport.cc/](https://www.playsport.cc/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p83">查看詳細報告</a> |
-| 84 | [https://www.microsoft.com/zh-tw/](https://www.microsoft.com/zh-tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p84">查看詳細報告</a> |
-| 85 | [https://www.thenewslens.com/](https://www.thenewslens.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p85">查看詳細報告</a> |
-| 86 | [https://technews.tw/](https://technews.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p86">查看詳細報告</a> |
-| 87 | [https://star.setn.com/](https://star.setn.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p87">查看詳細報告</a> |
-| 88 | [https://fc2.com/tw/](https://fc2.com/tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p88">查看詳細報告</a> |
-| 89 | [https://tw.mall.yahoo.com/](https://tw.mall.yahoo.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p89">查看詳細報告</a> |
-| 90 | [https://mamaclub.com](https://mamaclub.com)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p90">查看詳細報告</a> |
-| 91 | [https://www.cna.com.tw/](https://www.cna.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p91">查看詳細報告</a> |
-| 92 | [https://www.gq.com.tw/](https://www.gq.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p92">查看詳細報告</a> |
-| 93 | [https://www.eprice.com.tw/](https://www.eprice.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p93">查看詳細報告</a> |
-| 94 | [https://disp.cc/b/main](https://disp.cc/b/main)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p94">查看詳細報告</a> |
-| 95 | [https://ebc.net.tw/](https://ebc.net.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 1 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p95">查看詳細報告</a> |
-| 96 | [https://biji.co/](https://biji.co/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p96">查看詳細報告</a> |
-| 97 | [https://www.buy123.com.tw/](https://www.buy123.com.tw/)&emsp| <font color="#00FF00">通知皆正常</font>&emsp; | 3 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p97">查看詳細報告</a> |
-| 98 | [https://www.liontravel.com/category/zh-tw/index](https://www.liontravel.com/category/zh-tw/index)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p98">查看詳細報告</a> |
-| 99 | [https://life.tw/](https://life.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p99">查看詳細報告</a> |
-| 100 | [https://www.commonhealth.com.tw/](https://www.commonhealth.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p100">查看詳細報告</a> |
+| 1 | [www.google.com.tw](https://www.google.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p1">查看詳細報告</a> |
+| 2 | [www.youtube.com](https://www.youtube.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p2">查看詳細報告</a> |
+| 3 | [www.facebook.com](https://www.facebook.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p3">查看詳細報告</a> |
+| 4 | [tw.news.yahoo.com](https://tw.news.yahoo.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 1 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p4">查看詳細報告</a> |
+| 5 | [udn.com/news/index](https://udn.com/news/index)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p5">查看詳細報告</a> |
+| 6 | [tw.yahoo.com](https://tw.yahoo.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p6">查看詳細報告</a> |
+| 7 | [www.facebook.com](https://www.facebook.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p7">查看詳細報告</a> |
+| 8 | [shopee.tw](https://shopee.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p8">查看詳細報告</a> |
+| 9 | [zh.wikipedia.org](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p9">查看詳細報告</a> |
+| 10 | [www.ltn.com.tw](https://www.ltn.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 100 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p10">查看詳細報告</a> |
+| 11 | [news.ebc.net.tw](https://news.ebc.net.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p11">查看詳細報告</a> |
+| 12 | [line.me/zh-hant](https://line.me/zh-hant/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p12">查看詳細報告</a> |
+| 13 | [www.chinatimes.com/?chdtv](https://www.chinatimes.com/?chdtv)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p13">查看詳細報告</a> |
+| 14 | [www.nownews.com/#google_vignette](https://www.nownews.com/#google_vignette)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p14">查看詳細報告</a> |
+| 15 | [www.instagram.com](https://www.instagram.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p15">查看詳細報告</a> |
+| 16 | [www.ettoday.net](https://www.ettoday.net/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p16">查看詳細報告</a> |
+| 17 | [ppt.cc](https://ppt.cc/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p17">查看詳細報告</a> |
+| 18 | [www.pixnet.net](https://www.pixnet.net/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p18">查看詳細報告</a> |
+| 19 | [www.dcard.tw/f](https://www.dcard.tw/f)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p19">查看詳細報告</a> |
+| 20 | [http://www.baidu.com](http://www.baidu.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p20">查看詳細報告</a> |
+| 21 | [www.gamer.com.tw/index2.php?ad=N](https://www.gamer.com.tw/index2.php?ad=N)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p21">查看詳細報告</a> |
+| 22 | [www.momoshop.com.tw/main/Main.jsp](https://www.momoshop.com.tw/main/Main.jsp)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p22">查看詳細報告</a> |
+| 23 | [tw.nextapple.com](https://tw.nextapple.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p23">查看詳細報告</a> |
+| 24 | [www.bilibili.com](https://www.bilibili.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p24">查看詳細報告</a> |
+| 25 | [twitter.com/?lang=zh-tw](https://twitter.com/?lang=zh-tw)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p25">查看詳細報告</a> |
+| 26 | [www.setn.com](https://www.setn.com/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p26">查看詳細報告</a> |
+| 27 | [www.mobile01.com](https://www.mobile01.com/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p27">查看詳細報告</a> |
+| 28 | [www.tvbs.com.tw](https://www.tvbs.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p28">查看詳細報告</a> |
+| 29 | [biggo.com.tw](https://biggo.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p29">查看詳細報告</a> |
+| 30 | [openai.com](https://openai.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p30">查看詳細報告</a> |
+| 31 | [www.manhuagui.com](https://www.manhuagui.com/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p31">查看詳細報告</a> |
+| 32 | [www.businessweekly.com.tw](https://www.businessweekly.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p32">查看詳細報告</a> |
+| 33 | [www.manhuagui.com](https://www.manhuagui.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p33">查看詳細報告</a> |
+| 34 | [www.twitch.tv](https://www.twitch.tv/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p34">查看詳細報告</a> |
+| 35 | [www.xbanxia.com](https://www.xbanxia.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p35">查看詳細報告</a> |
+| 36 | [www.storm.mg](https://www.storm.mg/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p36">查看詳細報告</a> |
+| 37 | [http://www.104.com.tw](http://www.104.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p37">查看詳細報告</a> |
+| 38 | [www.ctwant.com](https://www.ctwant.com/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 66 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p38">查看詳細報告</a> |
+| 39 | [czbooks.net](https://czbooks.net/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p39">查看詳細報告</a> |
+| 40 | [http://www.hinet.net](http://www.hinet.net/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p40">查看詳細報告</a> |
+| 41 | [http://www.rakuten.com.tw](http://www.rakuten.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p41">查看詳細報告</a> |
+| 42 | [http://www.techbang.com](http://www.techbang.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p42">查看詳細報告</a> |
+| 43 | [http://www03.eyny.com](http://www03.eyny.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p43">查看詳細報告</a> |
+| 44 | [www.uukanshu.com](https://www.uukanshu.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p44">查看詳細報告</a> |
+| 45 | [netflix.com](netflix.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p45">查看詳細報告</a> |
+| 46 | [chinatimes.com](chinatimes.com)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 24 | 8 | <a class="portfolio-link" data-toggle="modal" href="#p46">查看詳細報告</a> |
+| 47 | [1111.com.tw](1111.com.tw)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p47">查看詳細報告</a> |
+| 48 | [baozimh.com](baozimh.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p48">查看詳細報告</a> |
+| 49 | [picsee.io](picsee.io)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p49">查看詳細報告</a> |
+| 50 | [69shuba.com](69shuba.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p50">查看詳細報告</a> |
+| 51 | [icook.tw](icook.tw)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p51">查看詳細報告</a> |
+| 52 | [newtalk.tw](newtalk.tw)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 1 | 1 | <a class="portfolio-link" data-toggle="modal" href="#p52">查看詳細報告</a> |
+| 53 | [imgur.com](imgur.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p53">查看詳細報告</a> |
+| 54 | [iq.com](iq.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p54">查看詳細報告</a> |
+| 55 | [trends.google.com](trends.google.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p55">查看詳細報告</a> |
+| 56 | [bussinesstoday.com.tw](bussinesstoday.com.tw)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p56">查看詳細報告</a> |
+| 57 | [chinatimes.com](chinatimes.com)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 16 | 7 | <a class="portfolio-link" data-toggle="modal" href="#p57">查看詳細報告</a> |
+| 58 | [news.google.com](news.google.com)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p58">查看詳細報告</a> |
+| 59 | [www.apple.com/tw](https://www.apple.com/tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p59">查看詳細報告</a> |
+| 60 | [www.blogger.com/about/?hl=zh-TW](https://www.blogger.com/about/?hl=zh-TW)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p60">查看詳細報告</a> |
+| 61 | [www.cmoney.tw/app](https://www.cmoney.tw/app/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p61">查看詳細報告</a> |
+| 62 | [www.elle.com/tw](https://www.elle.com/tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p62">查看詳細報告</a> |
+| 63 | [www.hinet.net](https://www.hinet.net/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p63">查看詳細報告</a> |
+| 64 | [www.popdaily.com.tw](https://www.popdaily.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p64">查看詳細報告</a> |
+| 65 | [world.taobao.com](https://world.taobao.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p65">查看詳細報告</a> |
+| 66 | [www.qq.com](https://www.qq.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p66">查看詳細報告</a> |
+| 67 | [www.jkforum.net/forum.php](https://www.jkforum.net/forum.php)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p67">查看詳細報告</a> |
+| 68 | [www.ftvnews.com.tw](https://www.ftvnews.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p68">查看詳細報告</a> |
+| 69 | [www.apple.com](https://www.apple.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p69">查看詳細報告</a> |
+| 70 | [www.mirrormedia.mg](https://www.mirrormedia.mg/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p70">查看詳細報告</a> |
+| 71 | [www.cdc.gov.tw](https://www.cdc.gov.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p71">查看詳細報告</a> |
+| 72 | [www.vogue.com.tw](https://www.vogue.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p72">查看詳細報告</a> |
+| 73 | [www.amazon.com](https://www.amazon.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p73">查看詳細報告</a> |
+| 74 | [www.parenting.com.tw](https://www.parenting.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p74">查看詳細報告</a> |
+| 75 | [www.cnyes.com](https://www.cnyes.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p75">查看詳細報告</a> |
+| 76 | [www.pcstore.com.tw](https://www.pcstore.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p76">查看詳細報告</a> |
+| 77 | [www.plurk.com/top](https://www.plurk.com/top/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p77">查看詳細報告</a> |
+| 78 | [www.obdesign.com.tw](https://www.obdesign.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p78">查看詳細報告</a> |
+| 79 | [www.qq.com](https://www.qq.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p79">查看詳細報告</a> |
+| 80 | [www.myvideo.net.tw](https://www.myvideo.net.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p80">查看詳細報告</a> |
+| 81 | [www.gomaji.com](https://www.gomaji.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p81">查看詳細報告</a> |
+| 82 | [www.plurk.com/portal](https://www.plurk.com/portal/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p82">查看詳細報告</a> |
+| 83 | [www.playsport.cc](https://www.playsport.cc/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p83">查看詳細報告</a> |
+| 84 | [www.microsoft.com/zh-tw](https://www.microsoft.com/zh-tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p84">查看詳細報告</a> |
+| 85 | [www.thenewslens.com](https://www.thenewslens.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p85">查看詳細報告</a> |
+| 86 | [technews.tw](https://technews.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p86">查看詳細報告</a> |
+| 87 | [star.setn.com](https://star.setn.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p87">查看詳細報告</a> |
+| 88 | [fc2.com/tw](https://fc2.com/tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p88">查看詳細報告</a> |
+| 89 | [tw.mall.yahoo.com](https://tw.mall.yahoo.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p89">查看詳細報告</a> |
+| 90 | [mamaclub.com](https://mamaclub.com)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p90">查看詳細報告</a> |
+| 91 | [www.cna.com.tw](https://www.cna.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p91">查看詳細報告</a> |
+| 92 | [www.gq.com.tw](https://www.gq.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p92">查看詳細報告</a> |
+| 93 | [www.eprice.com.tw](https://www.eprice.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p93">查看詳細報告</a> |
+| 94 | [disp.cc/b/main](https://disp.cc/b/main)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p94">查看詳細報告</a> |
+| 95 | [ebc.net.tw](https://ebc.net.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 1 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p95">查看詳細報告</a> |
+| 96 | [biji.co](https://biji.co/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p96">查看詳細報告</a> |
+| 97 | [www.buy123.com.tw](https://www.buy123.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 3 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p97">查看詳細報告</a> |
+| 98 | [www.liontravel.com/category/zh-tw/index](https://www.liontravel.com/category/zh-tw/index)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p98">查看詳細報告</a> |
+| 99 | [life.tw](https://life.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p99">查看詳細報告</a> |
+| 100 | [www.commonhealth.com.tw](https://www.commonhealth.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p100">查看詳細報告</a> |
