@@ -11,7 +11,7 @@ caption:
 
 ### [網站畫面](https://www.google.com.tw/)
 
-<embed src="https://web.archive.org/web/https://www.google.com.tw/"style="width:700px; height: 500px;">
+<embed src="https://web.archive.org/web/https://www.google.com.tw/" style="width:700px; height: 500px;">
 
 ### 是否有通知功能?
 無
