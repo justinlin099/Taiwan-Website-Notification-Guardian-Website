@@ -1,8 +1,10 @@
 ---
-subtitle: https://www.google.com.tw/
+title: Google
+subtitle: www.google.com
 
 caption:
-	subtitle: https://www.google.com.tw/
+  title: Google
+  subtitle: www.google.com
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
