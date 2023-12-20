@@ -8,7 +8,7 @@ caption:
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
 ### [網站畫面](https://tw.mall.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubXlsaW5rLmNvbS50dy8&guce_referrer_sig=AQAAAAtlawVRVfQo7tXDA11w6hF61teVORo-e531h2bRvKT7QcMxBLNnwkBJgLwUdFwZ8sEzvK4M9aXncbNNgH_xeWXFEJU-qliac38-JppxIM3isHe6bfDupPt7kILnqGwDObmiciKfF7zi5vBLPCMg9NjlTaAHR3UlY3nf1Hg5KX94)
-<embed src="https://web.archive.org/web/https://tw.mall.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubXlsaW5rLmNvbS50dy8&guce_referrer_sig=AQAAAAtlawVRVfQo7tXDA11w6hF61teVORo-e531h2bRvKT7QcMxBLNnwkBJgLwUdFwZ8sEzvK4M9aXncbNNgH_xeWXFEJU-qliac38-JppxIM3isHe6bfDupPt7kILnqGwDObmiciKfF7zi5vBLPCMg9NjlTaAHR3UlY3nf1Hg5KX94" style="width:700px; height: 500px;">
+<embed src="https://web.archive.org/web/https://tw.mall.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubXlsaW5rLmNvbS50dy8&guce_referrer_sig=AQAAAAtlawVRVfQo7tXDA11w6hF61teVORo-e531h2bRvKT7QcMxBLNnwkBJgLwUdFwZ8sEzvK4M9aXncbNNgH_xeWXFEJU-qliac38-JppxIM3isHe6bfDupPt7kILnqGwDObmiciKfF7zi5vBLPCMg9NjlTaAHR3UlY3nf1Hg5KX94"style="width:700px; height: 500px;">
 
 ### 是否有通知功能?
 無
