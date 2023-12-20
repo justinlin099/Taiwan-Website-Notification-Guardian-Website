@@ -1,14 +1,14 @@
 ---
-subtitle: https://www.youtube.com/
+subtitle: https://www.vogue.com.tw/
 
 caption:
-	subtitle: https://www.youtube.com/
+	subtitle: https://www.vogue.com.tw/
 ---
 
 <h3>網站分級：<font color="#00FF00">無通知功能</font></h3>
 
-### [網站畫面](https://www.youtube.com/)
-<embed src="https://web.archive.org/web/https://www.youtube.com/"style="width:700px; height: 500px;">
+### [網站畫面](https://www.vogue.com.tw/)
+<embed src="https://web.archive.org/web/https://www.vogue.com.tw/"style="width:700px; height: 500px;">
 
 ### 是否有通知功能?
 無
