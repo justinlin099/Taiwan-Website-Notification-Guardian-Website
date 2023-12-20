@@ -5,7 +5,8 @@ layout: home
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
 | 排名&emsp; | 網站網址&emsp; | 網站分級&emsp; | 收到的總通知數&emsp; | 收到的詐騙通知數&emsp; | 詳細報告&emsp; |
-| ------ | ------ | --------- | ------ | ------ | ------ || 1 | [https://www.google.com.tw/](https://www.google.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p1">查看詳細報告</a> |
+| ------ | ------ | --------- | ------ | ------ | ------ |
+| 1 | [https://www.google.com.tw/](https://www.google.com.tw/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p1">查看詳細報告</a> |
 | 2 | [https://www.youtube.com/](https://www.youtube.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p2">查看詳細報告</a> |
 | 3 | [https://www.facebook.com/](https://www.facebook.com/)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p3">查看詳細報告</a> |
 | 4 | [https://tw.news.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubXlsaW5rLmNvbS50dy8&guce_referrer_sig=AQAAADvTjgBPruZYBhHCuSAHioIo7xhbFICVSnJlPaEvQ4f-HTZ6J8l5kUFoVjRb5lvQCfk35CoTw0y7QOLpHhp6KfgEAGytI0sbaSYw8Mz3w8TkLidEUwzwqEVq1DwmSKSI7Qak4U0JIqU-Fsmsf0x-kI8unI243rntyo7BHANZzGIQ](https://tw.news.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubXlsaW5rLmNvbS50dy8&guce_referrer_sig=AQAAADvTjgBPruZYBhHCuSAHioIo7xhbFICVSnJlPaEvQ4f-HTZ6J8l5kUFoVjRb5lvQCfk35CoTw0y7QOLpHhp6KfgEAGytI0sbaSYw8Mz3w8TkLidEUwzwqEVq1DwmSKSI7Qak4U0JIqU-Fsmsf0x-kI8unI243rntyo7BHANZzGIQ)&emsp| <font color="#00FF00">無通知功能</font>&emsp; | 1 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p4">查看詳細報告</a> |
