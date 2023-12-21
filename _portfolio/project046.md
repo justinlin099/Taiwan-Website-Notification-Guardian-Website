@@ -27,5 +27,7 @@ caption:
 8
 
 #### 測試截圖(如網站無異常則無截圖)
-https://drive.google.com/open?id=1H0HHptK95FYOZ71E9pyL5q3jjMFShypD, https://drive.google.com/open?id=15sNPpviyWQpWv_9LMOf4KQbrMKS4LV69
+![圖片](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/b164452b-b053-4d9c-b6c0-806664667ed9)
+![圖片](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/89a4f2b4-dd80-4054-adc3-39f6b2f62359)
+
 
