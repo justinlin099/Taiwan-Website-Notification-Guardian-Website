@@ -5,7 +5,7 @@ caption:
   subtitle: https://ebc.net.tw/
 ---
 
-<h3>網站分級：<font color="#00FF00">有通知功能</font></h3>
+<h3>網站分級：<font color="#FF9900">出現無關廣告</font></h3>
 
 ### [網站畫面](https://ebc.net.tw/)
 ### 是否有通知功能?
@@ -27,5 +27,4 @@ caption:
 0
 
 #### 測試截圖(如網站無異常則無截圖)
-nan
-
+![95_EBC東森電視 2023_11_29 上午 10_28_40 - G P N](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/22281fa8-8403-4bce-87c6-4fcee192c9cb)
