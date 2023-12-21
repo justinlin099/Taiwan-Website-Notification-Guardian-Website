@@ -2,6 +2,7 @@
 subtitle: newtalk.tw
 
 caption:
+  title: 新頭殼
   subtitle: newtalk.tw
 ---
 
