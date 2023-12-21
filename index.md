@@ -18,7 +18,7 @@ layout: home
 | 10 | [www.ltn.com.tw](https://www.ltn.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 100 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p10">查看詳細報告</a> |
 | 11 | [news.ebc.net.tw](https://news.ebc.net.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p11">查看詳細報告</a> |
 | 12 | [line.me/zh-hant](https://line.me/zh-hant/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p12">查看詳細報告</a> |
-| 13 | [www.chinatimes.com](https://www.chinatimes.com/?chdtv)&emsp; | <font color="#FF0000">通知皆正常</font>&emsp; | 24 | 8 | <a class="portfolio-link" data-toggle="modal" href="#p13">出現詐騙廣告</a> |
+| 13 | [www.chinatimes.com](https://www.chinatimes.com/?chdtv)&emsp; | <font color="#FF0000">出現詐騙廣告</font>&emsp; | 24 | 8 | <a class="portfolio-link" data-toggle="modal" href="#p13">出現詐騙廣告</a> |
 | 14 | [www.nownews.com](https://www.nownews.com/#google_vignette)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p14">查看詳細報告</a> |
 | 15 | [www.instagram.com](https://www.instagram.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p15">查看詳細報告</a> |
 | 16 | [www.ettoday.net](https://www.ettoday.net/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p16">查看詳細報告</a> |
