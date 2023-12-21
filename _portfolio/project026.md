@@ -5,7 +5,7 @@ caption:
   subtitle: https://www.setn.com/
 ---
 
-<h3>網站分級：<font color="#00FF00">有通知功能</font></h3>
+<h3>網站分級：<font color="#FF9900">出現無關廣告</font></h3>
 
 ### [網站畫面](https://www.setn.com/)
 ### 是否有通知功能?
