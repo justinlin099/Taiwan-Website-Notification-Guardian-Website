@@ -7,7 +7,7 @@ caption:
   subtitle: newtalk.tw
 ---
 
-<h3>網站分級：<font color="#00FF00">有通知功能</font></h3>
+<h3>網站分級：<font color="#FF0000">出現詐騙廣告</font></h3>
 
 ### [網站畫面](newtalk.tw)
 ### 是否有通知功能?
