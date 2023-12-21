@@ -1,4 +1,5 @@
 ---
+title: 新頭殼
 subtitle: newtalk.tw
 
 caption:
