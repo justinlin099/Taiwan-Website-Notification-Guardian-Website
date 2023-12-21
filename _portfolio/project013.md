@@ -1,4 +1,5 @@
 ---
+title: 中時新聞網
 subtitle: https://www.chinatimes.com/?chdtv
 
 caption:
