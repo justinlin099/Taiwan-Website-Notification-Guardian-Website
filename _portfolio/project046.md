@@ -1,4 +1,5 @@
 ---
+title: 中時電子報
 subtitle: chinatimes.com
 
 caption:
