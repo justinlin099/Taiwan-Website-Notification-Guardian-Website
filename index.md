@@ -31,7 +31,7 @@ layout: home
 | 23 | [tw.nextapple.com](https://tw.nextapple.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p23">查看詳細報告</a> |
 | 24 | [www.bilibili.com](https://www.bilibili.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p24">查看詳細報告</a> |
 | 25 | [twitter.com](https://twitter.com/?lang=zh-tw)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p25">查看詳細報告</a> |
-| 26 | [www.setn.com](https://www.setn.com/)&emsp; | <font color="#FFFF00">出現無關廣告</font>&emsp; | 8 | 2 | <a class="portfolio-link" data-toggle="modal" href="#p26">查看詳細報告</a> |
+| 26 | [www.setn.com](https://www.setn.com/)&emsp; | <font color="#FF9900">出現無關廣告</font>&emsp; | 8 | 2 | <a class="portfolio-link" data-toggle="modal" href="#p26">查看詳細報告</a> |
 | 27 | [www.mobile01.com](https://www.mobile01.com/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p27">查看詳細報告</a> |
 | 28 | [www.tvbs.com.tw](https://www.tvbs.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p28">查看詳細報告</a> |
 | 29 | [biggo.com.tw](https://biggo.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p29">查看詳細報告</a> |
