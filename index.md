@@ -83,7 +83,7 @@ layout: home
 | 75 | [www.cnyes.com](https://www.cnyes.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p75">查看詳細報告</a> |
 | 76 | [www.pcstore.com.tw](https://www.pcstore.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p76">查看詳細報告</a> |
 | 77 | [www.plurk.com/top](https://www.plurk.com/top/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p77">查看詳細報告</a> |
-| 78 | [www.obdesign.com.tw](https://www.obdesign.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p78">查看詳細報告</a> |
+| 78 | [www.obdesign.com.tw](https://www.obdesign.com.tw/)&emsp; | <font color="#FF9900">出現無關廣告</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p78">查看詳細報告</a> |
 | 79 | [www.qq.com](https://www.qq.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p79">查看詳細報告</a> |
 | 80 | [www.myvideo.net.tw](https://www.myvideo.net.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p80">查看詳細報告</a> |
 | 81 | [www.gomaji.com](https://www.gomaji.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p81">查看詳細報告</a> |
@@ -95,7 +95,7 @@ layout: home
 | 87 | [star.setn.com](https://star.setn.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p87">查看詳細報告</a> |
 | 88 | [fc2.com/tw](https://fc2.com/tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p88">查看詳細報告</a> |
 | 89 | [tw.mall.yahoo.com](https://tw.mall.yahoo.com/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p89">查看詳細報告</a> |
-| 90 | [mamaclub.com](https://mamaclub.com)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p90">查看詳細報告</a> |
+| 90 | [mamaclub.com](https://mamaclub.com)&emsp; | <font color="#FF9900">出現無關廣告</font>&emsp; | 2 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p90">查看詳細報告</a> |
 | 91 | [www.cna.com.tw](https://www.cna.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p91">查看詳細報告</a> |
 | 92 | [www.gq.com.tw](https://www.gq.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p92">查看詳細報告</a> |
 | 93 | [www.eprice.com.tw](https://www.eprice.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p93">查看詳細報告</a> |
@@ -105,4 +105,4 @@ layout: home
 | 97 | [www.buy123.com.tw](https://www.buy123.com.tw/)&emsp; | <font color="#00FF00">通知皆正常</font>&emsp; | 3 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p97">查看詳細報告</a> |
 | 98 | [www.liontravel.com/category/zh-tw/index](https://www.liontravel.com/category/zh-tw/index)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p98">查看詳細報告</a> |
 | 99 | [life.tw](https://life.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p99">查看詳細報告</a> |
-| 100 | [www.commonhealth.com.tw](https://www.commonhealth.com.tw/)&emsp; | <font color="#00FF00">無通知功能</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p100">查看詳細報告</a> |
+| 100 | [www.commonhealth.com.tw](https://www.commonhealth.com.tw/)&emsp; | <font color="#FF9900">出現無關廣告</font>&emsp; | 0 | 0 | <a class="portfolio-link" data-toggle="modal" href="#p100">查看詳細報告</a> |
