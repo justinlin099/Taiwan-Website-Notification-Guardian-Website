@@ -28,4 +28,4 @@ caption:
 0
 
 #### 測試截圖(如網站無異常則無截圖)
-![95_EBC東森電視 2023_11_29 上午 10_28_40 - G P N](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/22281fa8-8403-4bce-87c6-4fcee192c9cb)
+<img src="https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/22281fa8-8403-4bce-87c6-4fcee192c9cb" width="100%">

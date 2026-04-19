@@ -29,6 +29,6 @@ caption:
 
 #### 測試截圖(如網站無異常則無截圖)
 
-![螢幕擷取畫面 2023-12-15 010648 - 張芸瑄](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/75b939cb-ca59-4868-9b9f-270f315c52e8)
+<img src="https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/75b939cb-ca59-4868-9b9f-270f315c52e8" width="100%">
 
-![螢幕擷取畫面 2023-12-15 010817 - 張芸瑄](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/85f6fda7-0efa-49c3-9920-246a6a0d2fc1)
+<img src="https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/85f6fda7-0efa-49c3-9920-246a6a0d2fc1" width="100%">

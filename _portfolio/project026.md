@@ -29,5 +29,5 @@ caption:
 
 #### 測試截圖(如網站無異常則無截圖)
 
-![Screenshot_20231101-132923_Pixel 啟動器](https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/5e187180-3b4f-4fb4-9e0c-437395d46814)
+<img src="https://github.com/justinlin099/Taiwan-Website-Notification-Guardian-Website/assets/61717681/5e187180-3b4f-4fb4-9e0c-437395d46814" width="100%">
 
